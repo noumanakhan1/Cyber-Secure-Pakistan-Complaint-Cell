@@ -1,6 +1,16 @@
 # Cyber Security Student Complaint Management System
 
 A full-stack web application for managing student complaints in a cyber security themed interface.
+<img width="960" height="409" alt="Screenshot" src="https://github.com/user-attachments/assets/4d956ae5-c9a5-42ab-84bc-1c560d39237c" />
+
+<img width="960" height="413" alt="Screenshot" src="https://github.com/user-attachments/assets/a6d3e8d5-652f-4854-93da-a28ef43fd5cc" />
+
+<img width="949" height="413" alt="Screenshot" src="https://github.com/user-attachments/assets/f0c905a3-c6c1-4585-b0f9-c1422bab3de1" /> 
+<img width="947" height="412" alt="Screenshot" src="https://github.com/user-attachments/assets/ce49ea9b-9c3c-424d-881f-e0e17f0ca76f" />
+<img width="297" height="253" alt="Screenshot" src="https://github.com/user-attachments/assets/c4231fc6-a333-4edb-8a2e-e5a99140331f" /> 
+<img width="947" height="414" alt="Screenshot" src="https://github.com/user-attachments/assets/0ea1101f-89c4-4c90-8d0d-15d41baecefd" />
+<img width="946" height="413" alt="Screenshot" src="https://github.com/user-attachments/assets/f51eb942-f5fc-42b5-9562-1e50a344e576" /> 
+<img width="946" height="413" alt="Screenshot" src="https://github.com/user-attachments/assets/ae2143a0-d4e1-4bf8-8416-006ea8d6fe97" />
 
 ## Features
 
@@ -11,40 +21,9 @@ A full-stack web application for managing student complaints in a cyber security
 - **Auto Assignment**: Automatic staff assignment based on complaint category
 - **Admin Dashboard**: Comprehensive analytics and management tools
 - **Responsive Design**: Mobile-first cyber security themed UI
-- **👨‍🎓 Student Features**
-Secure authentication and login system
-Dashboard with real-time statistics (Total, Active, Resolved complaints)
-Create and submit complaints with category and sub-category selection
-Auto-filled student details for faster submission
-File attachment support (documents, screenshots)
-Unique ticket ID generation for each complaint
-Track complaint status in real-time
-Chat-based communication with assigned staff
-Ability to provide additional information when requested
-Option to accept resolution or reopen complaint
-**🏢 Staff Features**
-Dashboard with assigned tickets and notifications
-View complete complaint details and attachments
-Accept, reassign, or request additional information
-Update ticket status (OPEN, IN_PROGRESS, PENDING, RESOLVED, CLOSED)
-Real-time chat with students
-Manage and resolve complaints efficiently
-**⚙️ Admin Features**
-Monitor all complaints across departments
-View system-wide analytics and performance metrics
-Track delayed and unresolved tickets
-Automatic escalation system for overdue complaints
-Generate reports (category-wise, resolution time, staff performance)
+
 ***🔄 Core System Features**
-Aut<img width="946" height="413" alt="Screenshot 2026-05-07 155923" src="https://github.com/user-attachments/assets/ae2143a0-d4e1-4bf8-8416-006ea8d6fe97" />
-<img width="946" height="413" alt="Screenshot 2026-05-07 155923" src="https://github.com/user-attachments/assets/f51eb942-f5fc-42b5-9562-1e50a344e576" />
-<img width="947" height="414" alt="Screenshot 2026-05-07 155745" src="https://github.com/user-attachments/assets/0ea1101f-89c4-4c90-8d0d-15d41baecefd" />
-<img width="297" height="253" alt="Screenshot 2026-05-07 155628" src="https://github.com/user-attachments/assets/c4231fc6-a333-4edb-8a2e-e5a99140331f" />
-<img width="947" height="412" alt="Screenshot 2026-05-07 155528" src="https://github.com/user-attachments/assets/ce49ea9b-9c3c-424d-881f-e0e17f0ca76f" />
-<img width="949" height="413" alt="Screenshot 2026-05-07 155440" src="https://github.com/user-attachments/assets/f0c905a3-c6c1-4585-b0f9-c1422bab3de1" />
-<img width="960" height="413" alt="Screenshot 2026-05-07 155403" src="https://github.com/user-attachments/assets/a6d3e8d5-652f-4854-93da-a28ef43fd5cc" />
-<img width="960" height="409" alt="Screenshot 2026-05-07 155132" src="https://github.com/user-attachments/assets/4d956ae5-c9a5-42ab-84bc-1c560d39237c" />
-omated ticket ID generation (structured format)
+Automated ticket ID generation (structured format)
 Smart auto-routing based on complaint category
 Role-based access control (Student, Staff, Admin)
 Status lifecycle management system
